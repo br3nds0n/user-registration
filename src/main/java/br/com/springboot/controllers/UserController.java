@@ -1,6 +1,7 @@
 package br.com.springboot.controllers;
 
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -27,8 +28,13 @@ public class UserController {
   }
 
   @GetMapping("/")
-  public List<User> list() {
+  public List<User> read() {
     return this.userRepository.findAll();
+  }
+
+  @GetMapping("/{id}")
+  public Optional<User> readUser(@PathVariable("id") Long id){
+    return this.userRepository.findById(id);
   }
 
 }
