@@ -1,4 +1,4 @@
-# 👤 User Registration <img align="right" src="https://img.shields.io/badge/release-v0.1.0-green">
+# 👤 User Registration <a href="https://github.com/br3nds0n/user-registration/releases" target="_blank"><img align="right" src="https://img.shields.io/badge/release-v0.1.0-green"></a>
 
 Welcome.
 
@@ -29,7 +29,7 @@ Let's get to the project!! 🚀
 This project is a java application with spring boot where I do the following implementations:
 
  * Interaction of http methods. (POST, GET, UPDATE and DELETE);
- * Connection with JPA bank
+ * Connection with JPA database
 
 ---
 
