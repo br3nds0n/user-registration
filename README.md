@@ -29,7 +29,7 @@ Let's get to the project!! 🚀
 This project is a java application with spring boot where I do the following implementations:
 
  * Interaction of http methods. (POST, GET, UPDATE and DELETE);
- * Connection with JPA bank
+ * Connection with JPA database
 
 ---
 
