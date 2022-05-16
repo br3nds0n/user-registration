@@ -1,4 +1,4 @@
-# 👤 User Registration <img align="right" src="https://img.shields.io/badge/release-v0.1.0-green">
+# 👤 User Registration <a href="https://github.com/br3nds0n/user-registration/releases" target="_blank"><img align="right" src="https://img.shields.io/badge/release-v0.1.0-green"></a>
 
 Welcome.
 
