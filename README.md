@@ -110,7 +110,7 @@ The following tools/technologies were used in the construction and testing of th
   </tr>
    <td>
       <a href="https://github.com/br3nds0n">
-        <img width="168" height="140" src="https://user-images.githubusercontent.com/82064724/169029601-a61d1c6f-9558-4877-9fba-187ee35db099.jpg" > <p align="left">
+        <img width="168" height="140" src="https://user-images.githubusercontent.com/82064724/169040996-89502743-78ba-4bf7-a145-ea7818e0157f.jpeg" > <p align="left">
 </p></a>
     </td>
   </tr>
