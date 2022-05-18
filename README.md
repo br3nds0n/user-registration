@@ -110,7 +110,7 @@ The following tools/technologies were used in the construction and testing of th
   </tr>
    <td>
       <a href="https://github.com/br3nds0n">
-        <img width="168" height="140" src="https://media-exp1.licdn.com/dms/image/C4D03AQH4Lyg5QLY14Q/profile-displayphoto-shrink_800_800/0/1649690168220?e=1655337600&v=beta&t=CE9_lwADS7APVkGKaBXv864HxejH2pwiOCwD_wlhHNU" > <p align="left">
+        <img width="168" height="140" src="https://user-images.githubusercontent.com/82064724/169029601-a61d1c6f-9558-4877-9fba-187ee35db099.jpg" > <p align="left">
 </p></a>
     </td>
   </tr>
@@ -120,6 +120,7 @@ The following tools/technologies were used in the construction and testing of th
 <div align=left>
 
 <br>
+
 
 [<Back](#Index)
  
